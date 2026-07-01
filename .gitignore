@@ -1,0 +1,13 @@
+# YOLO 模型文件 (自动下载，不提交)
+*.pt
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.idea/
+.vs/
+_lo_profile_bg/
+_lo_profile_bg2/
+_lo_profile_test/
+_render_out/
+*.docx
